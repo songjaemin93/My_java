@@ -2,30 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d7f0917-4961-4f55-a156-d8d48a7d2337" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/chap03_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/chap03_binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/binaryInsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/bubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/chap06_Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/chap06_Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/insertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/selectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gauss_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap01_Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap01_Q16_spira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_Q08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_cardConvRev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_cloneArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/chap02_primeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pracAndExer/fromToSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumForPos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/GenericClassTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/chap03_physExamSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/Gstack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/IntAryQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/IntDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/IntRingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/IntRingQueueTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/IntStackTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/chap05_recurX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/euclidGcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/gcdArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/hanoiTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Median.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap03/chap03_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/chap03_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/digit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gauss_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gauss_sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/starDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/starDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumForPos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumForPos.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,67 +36,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap06/chap06_Q5.java">
+        <entry file="file://$PROJECT_DIR$/src/chap05/euclidGcd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="532">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap06/selectionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/chap05/gcdArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="646">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap06/insertionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/chap04/chap05_recurX2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="380">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap06/chap06_Q7.java">
+        <entry file="file://$PROJECT_DIR$/src/chap05/hanoiTower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap06/binaryInsertionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap03/chap03_binarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="295">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap03/chap03_A.java">
+        <entry file="file://$PROJECT_DIR$/src/chap05/queenB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap04/IntRingQueueTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap04/IntStackTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -150,20 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/shot.java" />
-        <option value="$PROJECT_DIR$/src/brute_force.java" />
-        <option value="$PROJECT_DIR$/src/selfTest/dp.java" />
-        <option value="$PROJECT_DIR$/src/dp.java" />
-        <option value="$PROJECT_DIR$/src/dp_v2.java" />
-        <option value="$PROJECT_DIR$/src/virus_net.java" />
-        <option value="$PROJECT_DIR$/src/virus_net2.java" />
-        <option value="$PROJECT_DIR$/src/friend_2.java" />
-        <option value="$PROJECT_DIR$/src/starTournament.java" />
-        <option value="$PROJECT_DIR$/src/cockTail.java" />
-        <option value="$PROJECT_DIR$/src/gcdlcm.java" />
-        <option value="$PROJECT_DIR$/src/rectangleToEscape.java" />
-        <option value="$PROJECT_DIR$/src/CarTest.java" />
         <option value="$PROJECT_DIR$/src/mathGiveUp.java" />
         <option value="$PROJECT_DIR$/src/stick.java" />
         <option value="$PROJECT_DIR$/src/lostbracket.java" />
@@ -201,19 +180,26 @@
         <option value="$PROJECT_DIR$/src/chap06/binaryInsertionSort.java" />
         <option value="$PROJECT_DIR$/src/chap03/chap03_binarySearch.java" />
         <option value="$PROJECT_DIR$/src/chap03/chap03_A.java" />
+        <option value="$PROJECT_DIR$/src/chap03/chap03_physExamSearch.java" />
+        <option value="$PROJECT_DIR$/src/chap03/GenericClassTester.java" />
+        <option value="$PROJECT_DIR$/src/chap04/IntStackTester.java" />
+        <option value="$PROJECT_DIR$/src/chap04/IntStack.java" />
+        <option value="$PROJECT_DIR$/src/chap04/Gstack.java" />
+        <option value="$PROJECT_DIR$/src/chap04/IntAryQueue.java" />
+        <option value="$PROJECT_DIR$/src/chap04/IntRingQueueTester.java" />
+        <option value="$PROJECT_DIR$/src/chap04/IntRingQueue.java" />
+        <option value="$PROJECT_DIR$/src/chap04/IntDeck.java" />
+        <option value="$PROJECT_DIR$/src/chap05/euclidGcd.java" />
+        <option value="$PROJECT_DIR$/src/chap05/gcdArray.java" />
+        <option value="$PROJECT_DIR$/src/chap04/chap05_recurX2.java" />
+        <option value="$PROJECT_DIR$/src/chap05/hanoiTower.java" />
+        <option value="$PROJECT_DIR$/src/chap05/queenB.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -222,8 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,7 +241,13 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap06" type="462c0819:PsiDirectoryNode" />
+              <item name="chap04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -269,9 +259,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -290,13 +283,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.chap03_binarySearch">
-    <configuration name="binaryInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.binaryInsertionSort" />
+  <component name="RunManager" selected="Application.hanoiTower">
+    <configuration name="IntRingQueueTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.IntRingQueueTester" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap03_binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.chap03_binarySearch" />
+    <configuration name="chap05_recurX2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.chap05_recurX2" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap03.*" />
+          <option name="PATTERN" value="chap04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap06_Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.chap06_Q7" />
+    <configuration name="euclidGcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.euclidGcd" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.insertionSort" />
+    <configuration name="gcdArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.gcdArray" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.selectionSort" />
+    <configuration name="hanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.hanoiTower" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap06.*" />
+          <option name="PATTERN" value="chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.chap03_binarySearch" />
-        <item itemvalue="Application.binaryInsertionSort" />
-        <item itemvalue="Application.chap06_Q7" />
-        <item itemvalue="Application.insertionSort" />
-        <item itemvalue="Application.selectionSort" />
+        <item itemvalue="Application.hanoiTower" />
+        <item itemvalue="Application.chap05_recurX2" />
+        <item itemvalue="Application.gcdArray" />
+        <item itemvalue="Application.euclidGcd" />
+        <item itemvalue="Application.IntRingQueueTester" />
       </list>
     </recent_temporary>
   </component>
@@ -395,10 +388,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15369128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17248322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,7 +400,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41985816" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42411348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,7 +408,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32624114" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32568148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -459,110 +452,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="rectangle" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/starTournament.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/virus_net.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/virus_net2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lostbracket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/primeNumberFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/maraton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reBiggeestNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/biggestNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gcdlcm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brute_force.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/phoneBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gymSuit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -777,6 +666,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap06/binaryInsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/chap03_binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/chap03_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/chap03_physExamSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap03/GenericClassTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/IntStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" selection-start-line="55" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/Gstack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#1463#1464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/IntAryQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/IntRingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/IntDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap05/euclidGcd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap05/gcdArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/chap05_recurX2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/IntRingQueueTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap04/IntStackTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/rectangleToEscape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -801,27 +813,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap06/binaryInsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/chap05/hanoiTower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        <state relative-caret-position="295">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap03/chap03_binarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/chap05/queenB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap03/chap03_A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

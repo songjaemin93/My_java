@@ -1,5 +1,5 @@
 import java.util.*;
-
+//별찍기를 할 때 양쪽을 다 생각하는게 아니다!!! 그냥 앞에 공백 채우고 필요한 만큼만 별을 찍어준다.
 public class starDraw {
     int n = 1;
     int bool = 0;
